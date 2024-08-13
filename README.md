@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working as **Flutter Developer**
+- 🔭 I’m currently working as **Junior Software Engineer**
 
 - 🌱 I’m currently exploring **Flutter, Node JS , Mongo DB**
 
-- 💬 Ask me about **Android,Flutter,Kotlin and Dart**
+- 💬 Ask me about **Android,Flutter,Kotlin,Dart,Node Js , Express JS and MongoDB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
