@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as **Junior Software Engineer**
 
-- 🌱 I’m currently exploring **Flutter, Node JS , Mongo DB**
+- 🌱 I’m currently exploring **Flutter, Node JS , Mongo DB ,React-JS**
 
 - 💬 Ask me about **Android,Flutter,Kotlin,Dart,Node Js , Express JS and MongoDB**
 
